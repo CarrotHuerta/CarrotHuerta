@@ -3,7 +3,7 @@
 🌐 Learning advanced networking (WireGuard, routing, VPNs, WiFi optimization)  
 🖥️ I love tinkering with hardware, restoring abandoned tech & building network infra  
 ⚡ Tech-nerd energy: I enjoy experimenting, optimizing, and breaking things on purpose  
-🐱 Fun fact: I’m a cat lover who sleeps with the AC at max cold  
+🐱 Fun fact: I’m a cat lover who sleeps all day
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nacha.antouwu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ignaciaantouwu) 
