@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on automation<br>🌱 I’m currently learning networking<br>💬 Ask me about anything<br>⚡ Fun fact i like cats
-
+# 💫 About Me  
+🔧 Working on home-lab automation, server setups & remote access  
+🌐 Learning advanced networking (WireGuard, routing, VPNs, WiFi optimization)  
+🖥️ I love tinkering with hardware, restoring abandoned tech & building network infra  
+⚡ Tech-nerd energy: I enjoy experimenting, optimizing, and breaking things on purpose  
+🐱 Fun fact: I’m a cat lover who sleeps with the AC at max cold  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nacha.antouwu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ignaciaantouwu) 
