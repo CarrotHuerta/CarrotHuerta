@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 I’m currently working on  <br>Setting up networks, Linux servers and tweaking remote access (WireGuard + homelab)<br><br>🤝 I’m looking to collaborate on  <br>Anything related to networking, self-hosting or security<br><br>🧠 I’m looking for help with  <br>More advanced routing, properly designed VLANs and high availability<br><br>🌱 I’m currently learning  <br>Deeper networking concepts, Linux server stuff and how to optimize things without breaking them (too much)<br><br>💬 Ask me about  <br>VPNs, network setups, homelabs or weird troubleshooting<br><br>⚡ Fun fact  <br>I tend to overthink power and redundancy setups more than I probably should
 
 
